@@ -1,5 +1,5 @@
 # README
-University Student Result Management System
+
 # MIT 8103: Advanced Database Systems Practical Portfolio
 
 # Project Title
